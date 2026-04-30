@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- ۱. تصویر بنر جدید و ساده -->
-<img src="https://github.com/ImanGandomi/ImanGandomi/blob/main/header_banner.png" width="800" />
+
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 
 <br>
 
