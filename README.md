@@ -43,7 +43,7 @@
 | Description 🧠 | Focus Area 🎯 |
 | :--- | :--- |
 | Developing temporally consistent segmentation and tracking frameworks for cataract surgery videos | **Surgical Video Understanding** 🩺 |
-| Automated quantification of surgical proficiency via kinematic analysis and instrument interaction tracking[cite: 1] | **AI-Driven Skill Assessment** 📊 |
-| Engineering RAG-based agents to generate actionable feedback and interpretable medical narratives[cite: 1] | **LLM & RAG for Medicine** 🤖 |
-| Integrating vision-based control and deep learning for real-time surgical assistance and morphological analysis[cite: 1] | **Computer Vision & Control** 👁️ |
-| Spearheading cross-disciplinary R&D teams and mentoring research groups at ARAS AI Lab and Medivers Ai[cite: 1] | **Technical Leadership** 🏫 |
+| Automated quantification of surgical proficiency via kinematic analysis and instrument interaction tracking | **AI-Driven Skill Assessment** 📊 |
+| Engineering RAG-based agents to generate actionable feedback and interpretable medical narratives | **LLM & RAG for Medicine** 🤖 |
+| Integrating vision-based control and deep learning for real-time surgical assistance and morphological analysis | **Computer Vision & Control** 👁️ |
+| Spearheading cross-disciplinary R&D teams and mentoring research groups at ARAS AI Lab and Medivers Ai | **Technical Leadership** 🏫 |
