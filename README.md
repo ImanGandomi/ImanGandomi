@@ -34,13 +34,13 @@
 ---
 
 <!-- بخش بیوگرافی که قبلاً داشتیم -->
-### 🚀 Research & Professional Background
+## 🚀 What I'm Working On
+---
 
-He is a dedicated **Master of Science student in Electrical and Control Engineering** at K. N. Toosi University of Technology (KNTU), maintaining an impressive GPA of $18.41/20$[cite: 1]. His primary expertise lies at the intersection of **Computer Vision and Medical Robotics**, with a specific focus on developing intelligent segmentation and tracking systems for surgical video analysis[cite: 1].
-
-As a **Technical Lead** and **AI Engineer**, he has spearheaded the development of core computer vision modules for surgical intelligence platforms like **Surgicise**, working closely with clinical specialists to bridge the gap between engineering and medical standards[cite: 1].
-
-#### Key Interests:
-*   **Deep Learning & Machine Learning** for Surgical Video Analysis[cite: 1].
-*   **Computer-Assisted Surgery** and Instrument Tracking[cite: 1].
-*   **LLM Agents** and Retrieval-Augmented Generation (RAG) in medical contexts[cite: 1].
+| Description 🧠 | Focus Area 🎯 |
+| :--- | :--- |
+| Developing temporally consistent segmentation and tracking frameworks for cataract surgery videos | **Surgical Video Understanding** 🩺 |
+| Automated quantification of surgical proficiency via kinematic analysis and instrument interaction tracking[cite: 1] | **AI-Driven Skill Assessment** 📊 |
+| Engineering RAG-based agents to generate actionable feedback and interpretable medical narratives[cite: 1] | **LLM & RAG for Medicine** 🤖 |
+| Integrating vision-based control and deep learning for real-time surgical assistance and morphological analysis[cite: 1] | **Computer Vision & Control** 👁️ |
+| Spearheading cross-disciplinary R&D teams and mentoring research groups at ARAS AI Lab and Medivers Ai[cite: 1] | **Technical Leadership** 🏫 |
