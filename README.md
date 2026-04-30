@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- ۱. بنر متحرک با افکت موجی -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=0077b5&height=300&section=header&text=Iman%20Gandomi&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Control%20Engineer&descAlignY=51&descSize=20" />
+<!-- ۱. تصویر بنر جدید و ساده -->
+<img src="https://github.com/ImanGandomi/ImanGandomi/blob/main/header_banner.png" width="800" />
 
 <br>
 
-<!-- ۲. آمار زنده پروفایل -->
+<!-- ۲. آمار زنده پروفایل (همان کدهای قبلی با یوزرنیم شما) -->
 <img src="https://komarev.com/ghpvc/?username=ImanGandomi&label=PROFILE+VIEWS&style=for-the-badge&color=0088ff" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/ImanGandomi?label=FOLLOWERS&style=for-the-badge&color=24292e" alt="Followers" />
 <img src="https://img.shields.io/github/stars/ImanGandomi?label=TOTAL%20STARS&style=for-the-badge&color=00aaff" alt="Stars" />
@@ -13,7 +13,7 @@
 
 <br><br>
 
-<!-- ۳. لینک‌های ارتباطی و رزومه -->
+<!-- ۳. لینک‌های ارتباطی و رزومه (همان کدهای قبلی) -->
 <a href="https://www.linkedin.com/in/iman-gandomi-982390220">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -33,9 +33,10 @@
 
 ---
 
+<!-- بخش بیوگرافی که قبلاً داشتیم -->
 ### 🚀 Research & Professional Background
 
-He is a dedicated **Master of Science student in Electrical and Control Engineering** at K. N. Toosi University of Technology (KNTU), maintaining an impressive GPA of $18.41/20$. His primary expertise lies at the intersection of **Computer Vision and Medical Robotics**, with a specific focus on developing intelligent segmentation and tracking systems for surgical video analysis[cite: 1].
+He is a dedicated **Master of Science student in Electrical and Control Engineering** at K. N. Toosi University of Technology (KNTU), maintaining an impressive GPA of $18.41/20$[cite: 1]. His primary expertise lies at the intersection of **Computer Vision and Medical Robotics**, with a specific focus on developing intelligent segmentation and tracking systems for surgical video analysis[cite: 1].
 
 As a **Technical Lead** and **AI Engineer**, he has spearheaded the development of core computer vision modules for surgical intelligence platforms like **Surgicise**, working closely with clinical specialists to bridge the gap between engineering and medical standards[cite: 1].
 
